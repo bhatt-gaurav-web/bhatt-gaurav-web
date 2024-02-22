@@ -27,9 +27,6 @@
 <h3 align="left">Languages and Tools:</h3>
 
 ###
-
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmY3ZDFuNG91dTV5cng1ZmdoOHRpcmhqaTl0bTV0czNwMTRydHM5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
-
 ###
 
 <div align="left">
@@ -53,11 +50,6 @@
 </div>
 
 ###
-
-<br clear="both">
-
-###
-
 <!--
 **gauravbhatt485/gauravbhatt485** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
