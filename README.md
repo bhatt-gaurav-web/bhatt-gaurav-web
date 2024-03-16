@@ -4,7 +4,7 @@
 
 <div align="center">
   <img align="right" class="output" src="https://github-readme-streak-stats.herokuapp.com/?user=bhatt-gaurav-web&theme=tokyonight&hide_border=true" alt="github streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhatt-gaurav-web&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dracula&hide_border=false" height="170" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhatt-gaurav-web&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dracula&hide_border=false" height="160" alt="languages graph"  />
 </div>
 
 ###
